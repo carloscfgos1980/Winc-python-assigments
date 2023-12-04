@@ -1,0 +1,1 @@
+I didn't quite solve the exercise with the Winc conditions but I know how to work with templates so I move on
