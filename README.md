@@ -1,0 +1,1 @@
+when I add new biometric values. Erase the previos one.... no fucking clue how to keep the previous values... I have tried all cobination with update. Appen does not work with dicttionary
